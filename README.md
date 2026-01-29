@@ -218,11 +218,4 @@ This project provides a comprehensive understanding of flight delays and cancell
 
 ---
 
-## 🚀 Future Improvements
-
-* Merge datasets for deeper analysis
-* Predict flight delays using machine learning
-* Interactive dashboards using Plotly or Power BI
-
----
 
